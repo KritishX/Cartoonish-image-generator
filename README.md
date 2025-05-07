@@ -1,9 +1,4 @@
 # Cartoonish-image-generator
-Sure! Here's a polished and professional description for your improved cartoonify engine:
-
----
-
-### **Improved Cartoonify Engine**
 
 Transform your images into smooth, vibrant, and high-quality cartoon-like artworks with this advanced cartoonification process. This upgraded engine enhances the cartoonification process by combining **sophisticated filtering**, **edge detection**, and **color quantization** techniques, producing visually appealing and artistic results.
 
